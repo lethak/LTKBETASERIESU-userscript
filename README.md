@@ -4,9 +4,8 @@ This userscript is trying to improve the user experience on betaseries.com addin
 
 ## Features
 
-### Series
-
-* Adds a TPB search button on each episode on the member episode watch list (the legacy one)
+* Adding a TPB search button on each episode on the member episode watch list (the legacy one)
+* Removing the header banner promoting random series on each page  
 
 ## Installation
 
